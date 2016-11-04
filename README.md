@@ -5,7 +5,7 @@ Stack Data Structure - FILO (First In Last Out)
 __
 __
 __
-*Last*     (()) <- Brackets to be checked and pushed onto stack, or if closing bracket, pop LAST then validate they match
+*Last* ------ (()) ----- <- Brackets to be checked and pushed onto stack, or if closing bracket, pop LAST then validate they match
 
 
 Checks brackets. If it is a left bracket, it pushes it onto the stack, so goes to bottom and stays there as the first element.
