@@ -1,11 +1,12 @@
 # Check-Parentheses-Valid
 Stack Data Structure - FILO (First In Last Out)
 
-*Last*
-__
-__
-__
 *First*
+__
+__
+__
+*Last*
+
 
 Checks brackets. If it is a left bracket, it pushes it onto the stack, so goes to bottom and stays there as the first element.
 
